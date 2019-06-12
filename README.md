@@ -6,6 +6,7 @@ Name: Diaa Mamdouh Attia
 
 
 - I have changed the background color the web page.
+
 ![alt text](https://github.com/Diaa14/movie_recommendations_fe_assignment/blob/master/backgroundcolor.png)
 
 
@@ -19,3 +20,8 @@ Name: Diaa Mamdouh Attia
 
 - I have changed the place of the subscription form from the header to the body.
 ![alt text](https://github.com/Diaa14/movie_recommendations_fe_assignment/blob/master/subscription_form.png)
+
+
+- and this is a complete screenshot of the new design.
+![alt text](https://github.com/Diaa14/movie_recommendations_fe_assignment/blob/master/complete1.png)
+![alt text](https://github.com/Diaa14/movie_recommendations_fe_assignment/blob/master/complete2.png)
